@@ -1,2 +1,3 @@
-# ti10_lgd_ptsd_remove
-A chrome plugin that will replace all the sensitive words involved TI10 and LGD. Let it get away from my life pls
+## FilterMemory
+### It is a chrome extension that will filter some sentitive words related with dota2 & lgd & ti10.
+As a chinese dota2 player, it hurts me deeply when LGD failed the final with result 2: 3. Since 2017, I have never drop a match that LGD/AME involved, and I even spend almost my free time watching dota2 stream and playing dota2 with my friends. The PITY that Ame has never won a ti champion always stays in my heart since ti8, I do think he deserves carving his name on the Dota2 shield. They always be beat in Ti final, but always stand tenaciously. But as a normal player, it likes a knife regularly dance in your heart. For everything it will be peaceful if u don't care it. I just don't want to my heart broken again, let it gone.
